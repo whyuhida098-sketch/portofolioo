@@ -1,0 +1,13 @@
+{
+  "name": "Wahyu Hidayati",
+
+  "title": "Electronic Engineer",
+
+  "tagline": "IoT • PLC • Microcontroller • Industrial Automation",
+
+  "photo": "assets/profile.jpg",
+
+  "resume": "assets/CV_Wahyu_Hidayati.pdf",
+
+  "about": "An Electronics Engineering graduate from Politeknik Negeri Semarang with a strong interest in Internet of Things (IoT), Programmable Logic Controllers (PLC), Control Systems, and Industrial Automation. Experienced in developing monitoring and control systems using Arduino, ESP32, MQTT, Modbus communication, and Siemens S7-1200 PLCs. Passionate about learning emerging technologies and applying them to practical industrial solutions."
+}

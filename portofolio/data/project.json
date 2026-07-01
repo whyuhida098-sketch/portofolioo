@@ -1,0 +1,49 @@
+[
+{
+"title": "Automatic Fish Feeder with Telegram Notification",
+"image": "assets/projects/project1.jpg",
+"description": "Developed an IoT-based automatic fish feeder using ESP8266 and Telegram Bot integration for remote feeding control and monitoring.",
+"technologies": [
+"ESP8266",
+"Telegram Bot",
+"IoT",
+"Arduino IDE"
+]
+},
+
+{
+"title": "Water Level Monitoring System",
+"image": "assets/projects/project2.jpg",
+"description": "Designed a water level monitoring system using HC-SR04 and A02YYUW ultrasonic sensors integrated with Arduino Uno and LabVIEW for real-time visualization and monitoring.",
+"technologies": [
+"Arduino Uno",
+"LabVIEW",
+"HC-SR04",
+"A02YYUW"
+]
+},
+
+{
+"title": "MQTT-Based Monitoring Dashboard",
+"image": "assets/projects/project3.jpg",
+"description": "Developed a real-time monitoring dashboard using MQTT communication protocol for data visualization and remote monitoring applications.",
+"technologies": [
+"MQTT",
+"JavaScript",
+"ESP832",
+"Web Dashboard"
+]
+},
+
+
+{
+"title": "Automatic Parking Barrier System",
+"image": "assets/projects/project4.jpg",
+"description": "Implemented an automatic parking barrier system using infrared sensors and microcontroller-based control logic for vehicle detection and access control.",
+"technologies": [
+"Infrared Sensor",
+"Microcontroller",
+"MatlabR12a"
+]
+}
+]

@@ -1,0 +1,59 @@
+{
+"organizations": [
+
+
+    {
+        "name": "Unit Kegiatan Mahasiswa Pengembangan Pengetahuan",
+
+        "position": "Anggota",
+
+        "period": "2024 - 2025 "
+    },
+
+    {
+        "name": "Panitia Lomba Karya Tulis Ilmiah Nasional",
+
+        "position": "Sekertaris 2",
+
+        "period": "2025"
+    },
+   {
+        "name": "Panitia Bakti Masyarakat",
+
+        "position": "Penanggungjawab Devisi Pelatihan",
+
+        "period": "2024"
+    }
+
+],
+
+"certificates": [
+
+    {
+        "title": "BNSP Sertifiasi Kompetensi",
+
+        "issuer": "Politeknik Negeri Semarang",
+
+        "year": "2025",
+
+        "image": "assets/certificates/cert1.jpg",
+
+        "file": "assets/certificates/cert1.pdf"
+    },
+
+    {
+        "title": "Sertifikat magang industri",
+
+        "issuer": "PT Krakatau Chandra Energi",
+
+        "year": "2025",
+
+        "image": "assets/certificates/cert2.jpg",
+
+        "file": "assets/certificates/cert2.pdf"
+    }
+
+]
+
+
+}

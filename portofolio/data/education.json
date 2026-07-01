@@ -1,0 +1,20 @@
+[
+{
+  "institution": "Semarang State Polytechnic",
+
+  "degree": "Diploma in Electronics Engineering | 3.66/4.00",
+
+  "period": "2023 - 2026",
+
+  "logo": "assets/logo-polines.png",
+
+  "description": "Focused on Industrial Automation, Control Systems, Embedded Systems, Internet of Things (IoT), Industrial Instrumentation, and PLC Programming. Developed practical skills through laboratory work, engineering projects, and industrial training."
+},
+{
+  "institution": "State Vocational High School 1 Purworejo",
+  "degree": "Electrical Installation Engineering",
+  "period": "2020 - 2023",
+  "logo": "assets/logo-smk.png",
+  "description": "Specialized in residential and industrial electrical installations, three-phase motor control, electrical protection systems, power distribution, electrical measurements, and basic PLC programming. Gained practical experience through laboratory work and electrical control panel projects."
+}
+]

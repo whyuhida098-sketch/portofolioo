@@ -1,0 +1,54 @@
+[
+{
+"name": "PLC Siemens S7-1200",
+"level": 50
+},
+
+
+{
+    "name": "ESP32",
+    "level": 90
+},
+
+{
+    "name": "Arduino",
+    "level": 95
+},
+
+{
+    "name": "MQTT",
+    "level": 85
+},
+
+{
+    "name": "Modbus TCP/IP",
+    "level": 85
+},
+
+{
+    "name": "TIA Portal",
+    "level": 85
+},
+
+{
+    "name": "Proteus",
+    "level": 90
+},
+
+{
+    "name": "HTML",
+    "level": 85
+},
+
+{
+    "name": "CSS",
+    "level": 80
+},
+
+{
+    "name": "JavaScript",
+    "level": 75
+}
+
+
+]
